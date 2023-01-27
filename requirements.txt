@@ -1,0 +1,9 @@
+xarray
+numpy
+cartopy
+geopandas
+pandas
+shapely
+rioxarray
+matplotlib
+cmocean
